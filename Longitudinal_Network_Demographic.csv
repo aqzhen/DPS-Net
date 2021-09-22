@@ -1,0 +1,507 @@
+"subject","PTID","EXAMDATE.x","VISCODE","DX_bl","AGE","PTGENDER","PTEDUCAT","PTETHCAT","PTRACCAT","PTMARRY","CDRSB","MMSE"
+"S156236","003_S_2374","5/16/2012","m12","EMCI",81.3,"Female",18,"Not Hisp/Latino","White","Never married",0.5,29
+"S177586","005_S_4910","12/13/2012","m03","AD",81.4,"Female",15,"Not Hisp/Latino","White","Married",NA,NA
+"S185876","005_S_4910","4/3/2013","m06","AD",81.4,"Female",15,"Not Hisp/Latino","White","Married",10,19
+"S177601","005_S_5038","12/13/2012","bl","AD",81.5,"Male",18,"Not Hisp/Latino","White","Married",5,25
+"S184500","005_S_5038","3/14/2013","m03","AD",81.5,"Male",18,"Not Hisp/Latino","White","Married",NA,NA
+"S191604","005_S_5038","6/5/2013","m06","AD",81.5,"Male",18,"Not Hisp/Latino","White","Married",9,21
+"S209945","005_S_5038","1/9/2014","m12","AD",81.5,"Male",18,"Not Hisp/Latino","White","Married",8,24
+"S193388","005_S_5119","6/25/2013","m03","AD",77,"Female",12,"Not Hisp/Latino","White","Married",NA,NA
+"S217193","005_S_5119","4/22/2014","m12","AD",77,"Female",12,"Not Hisp/Latino","White","Married",10,18
+"S185458","005_S_5119","3/28/2013","bl","AD",77,"Female",12,"Not Hisp/Latino","White","Married",8,23
+"S157440","007_S_2394","7/12/2012","m12","EMCI",67.4,"Male",20,"Not Hisp/Latino","White","Married",0.5,30
+"S194967","007_S_2394","7/15/2013","m24","EMCI",67.4,"Male",20,"Not Hisp/Latino","White","Married",0.5,30
+"S418884","007_S_2394","7/13/2015","m48","EMCI",67.4,"Male",20,"Not Hisp/Latino","White","Married",0.5,29
+"S148744","007_S_4272","4/30/2012","m06","EMCI",70.9,"Male",12,"Not Hisp/Latino","White","Married",1.5,25
+"S171689","007_S_4272","10/22/2012","m12","EMCI",70.9,"Male",12,"Not Hisp/Latino","White","Married",2,25
+"S204969","007_S_4272","10/28/2013","m24","EMCI",70.9,"Male",12,"Not Hisp/Latino","White","Married",1.5,25
+"S142629","007_S_4387","3/5/2012","m03","CN",76.1,"Female",16,"Not Hisp/Latino","White","Married",NA,NA
+"S180549","007_S_4387","1/21/2013","m12","CN",76.1,"Female",16,"Not Hisp/Latino","White","Married",0,30
+"S214038","007_S_4387","12/2/2013","m24","CN",76.1,"Female",16,"Not Hisp/Latino","White","Married",0,28
+"S404468","007_S_4387","12/7/2015","m48","CN",76.1,"Female",16,"Not Hisp/Latino","White","Married",0,29
+"S148556","007_S_4467","4/27/2012","m03","EMCI",61.9,"Female",12,"Not Hisp/Latino","White","Married",NA,NA
+"S158986","007_S_4467","7/30/2012","m06","EMCI",61.9,"Female",12,"Not Hisp/Latino","White","Married",0.5,27
+"S182610","007_S_4467","2/18/2013","m12","EMCI",61.9,"Female",12,"Not Hisp/Latino","White","Married",1,26
+"S162302","007_S_4488","8/22/2012","m06","CN",72.6,"Male",18,"Not Hisp/Latino","White","Married",0,28
+"S182383","007_S_4488","2/14/2013","m12","CN",72.6,"Male",18,"Not Hisp/Latino","White","Married",0,29
+"S381525","007_S_4488","2/22/2016","m48","CN",72.6,"Male",18,"Not Hisp/Latino","White","Married",0,30
+"S150318","007_S_4516","5/14/2012","m03","CN",71.4,"Male",20,"Not Hisp/Latino","White","Married",NA,NA
+"S162673","007_S_4516","8/27/2012","m06","CN",71.4,"Male",20,"Not Hisp/Latino","White","Married",0,26
+"S212726","007_S_4516","2/17/2014","m24","CN",71.4,"Male",20,"Not Hisp/Latino","White","Married",0,28
+"S375372","007_S_4516","2/15/2016","m48","CN",71.4,"Male",20,"Not Hisp/Latino","White","Married",0,30
+"S142283","007_S_4568","3/1/2012","bl","AD",70.7,"Female",16,"Not Hisp/Latino","White","Married",3,23
+"S189309","007_S_4568","5/13/2013","m12","AD",70.7,"Female",16,"Not Hisp/Latino","White","Married",4,21
+"S214857","007_S_4568","3/27/2014","m24","AD",70.7,"Female",16,"Not Hisp/Latino","White","Married",4,19
+"S170135","007_S_4611","10/8/2012","m06","LMCI",66.9,"Male",18,"Not Hisp/Latino","White","Divorced",1.5,24
+"S185590","007_S_4611","4/1/2013","m12","LMCI",66.9,"Male",18,"Not Hisp/Latino","White","Divorced",2.5,26
+"S218934","007_S_4611","5/19/2014","m24","LMCI",66.9,"Male",18,"Not Hisp/Latino","White","Divorced",1.5,24
+"S430734","007_S_4611","4/26/2016","m48","LMCI",66.9,"Male",18,"Not Hisp/Latino","White","Divorced",2.5,25
+"S156792","007_S_4620","7/5/2012","m03","CN",77.1,"Male",19,"Not Hisp/Latino","White","Married",NA,NA
+"S169277","007_S_4620","10/1/2012","m06","CN",77.1,"Male",19,"Not Hisp/Latino","White","Married",0,29
+"S186971","007_S_4620","4/15/2013","m12","CN",77.1,"Male",19,"Not Hisp/Latino","White","Married",0,29
+"S216772","007_S_4620","4/22/2014","m24","CN",77.1,"Male",19,"Not Hisp/Latino","White","Married",0,30
+"S430769","007_S_4620","3/28/2016","m48","CN",77.1,"Male",19,"Not Hisp/Latino","White","Married",0,28
+"S144969","007_S_4620","3/28/2012","bl","CN",77.1,"Male",19,"Not Hisp/Latino","White","Married",0,30
+"S146546","007_S_4637","4/5/2012","bl","CN",70.8,"Female",18,"Not Hisp/Latino","White","Married",0,29
+"S155015","007_S_4637","6/22/2012","m03","CN",70.8,"Female",18,"Not Hisp/Latino","White","Married",NA,NA
+"S172488","007_S_4637","10/29/2012","m06","CN",70.8,"Female",18,"Not Hisp/Latino","White","Married",0,30
+"S187561","007_S_4637","4/22/2013","m12","CN",70.8,"Female",18,"Not Hisp/Latino","White","Married",0,29
+"S217951","007_S_4637","5/5/2014","m24","CN",70.8,"Female",18,"Not Hisp/Latino","White","Married",0,30
+"S430719","007_S_4637","4/25/2016","m48","CN",70.8,"Female",18,"Not Hisp/Latino","White","Married",0,29
+"S185575","007_S_4911","4/1/2013","m06","AD",74.5,"Male",20,"Not Hisp/Latino","White","Married",7,24
+"S203119","007_S_4911","10/7/2013","m12","AD",74.5,"Male",20,"Not Hisp/Latino","White","Married",7,22
+"S164221","007_S_4911","8/30/2012","bl","AD",74.5,"Male",20,"Not Hisp/Latino","White","Married",4.5,21
+"S192130","007_S_5196","6/3/2013","bl","AD",72.8,"Female",18,"Not Hisp/Latino","White","Married",2.5,21
+"S200721","007_S_5196","9/13/2013","m03","AD",72.8,"Female",18,"Not Hisp/Latino","White","Married",NA,NA
+"S418908","007_S_5265","8/25/2015","m24","SMC",75.1,"Female",18,"Not Hisp/Latino","White","Never married",0,28
+"S196975","007_S_5265","7/30/2013","bl","SMC",75.1,"Female",18,"Not Hisp/Latino","White","Never married",0,30
+"S102587","016_S_2007","3/24/2011","m12","EMCI",83.4,"Female",20,"Hisp/Latino","White","Widowed",2.5,29
+"S144811","016_S_2007","3/26/2012","m24","EMCI",83.4,"Female",20,"Hisp/Latino","White","Widowed",0.5,30
+"S91484","016_S_2007","8/30/2010","m03","EMCI",83.4,"Female",20,"Hisp/Latino","White","Widowed",NA,NA
+"S115518","016_S_2031","7/19/2011","m12","EMCI",72.5,"Male",16,"Not Hisp/Latino","White","Married",2,27
+"S158377","016_S_2031","7/23/2012","m24","EMCI",72.5,"Male",16,"Not Hisp/Latino","White","Married",1.5,29
+"S196375","016_S_2031","7/22/2013","m36","EMCI",72.5,"Male",16,"Not Hisp/Latino","White","Married",2,28
+"S94738","016_S_2031","11/10/2010","m03","EMCI",72.5,"Male",16,"Not Hisp/Latino","White","Married",NA,NA
+"S90388","016_S_2031","8/11/2010","bl","EMCI",72.5,"Male",16,"Not Hisp/Latino","White","Married",2,27
+"S108292","016_S_2284","5/5/2011","m03","EMCI",76.6,"Male",16,"Hisp/Latino","White","Married",NA,NA
+"S122088","016_S_2284","9/8/2011","m12","EMCI",76.6,"Male",16,"Hisp/Latino","White","Married",1,29
+"S112088","016_S_4009","6/18/2011","bl","AD",90.3,"Male",17,"Hisp/Latino","White","Married",8,24
+"S192598","016_S_4009","6/17/2013","m24","AD",90.3,"Male",17,"Hisp/Latino","White","Married",10,25
+"S158219","016_S_4009","7/18/2012","m12","AD",90.3,"Male",17,"Hisp/Latino","White","Married",9,24
+"S124956","016_S_4097","10/4/2011","m03","CN",70.8,"Female",16,"Hisp/Latino","White","Divorced",NA,NA
+"S137416","016_S_4097","1/18/2012","m06","CN",70.8,"Female",16,"Hisp/Latino","White","Divorced",0,30
+"S113791","016_S_4097","7/5/2011","bl","CN",70.8,"Female",16,"Hisp/Latino","White","Divorced",0,30
+"S125430","016_S_4121","10/13/2011","m03","CN",89,"Male",16,"Not Hisp/Latino","White","Widowed",NA,NA
+"S138301","016_S_4121","1/23/2012","m06","CN",89,"Male",16,"Not Hisp/Latino","White","Widowed",0,28
+"S160931","016_S_4121","8/13/2012","m12","CN",89,"Male",16,"Not Hisp/Latino","White","Widowed",0,29
+"S197486","016_S_4121","8/8/2013","m24","CN",89,"Male",16,"Not Hisp/Latino","White","Widowed",0,27
+"S281277","016_S_4121","9/21/2015","m48","CN",89,"Male",16,"Not Hisp/Latino","White","Widowed",0.5,23
+"S115572","016_S_4121","7/15/2011","bl","CN",89,"Male",16,"Not Hisp/Latino","White","Widowed",0,27
+"S145695","016_S_4353","3/31/2012","m03","AD",55.6,"Female",16,"Not Hisp/Latino","White","Married",NA,NA
+"S130361","016_S_4353","11/18/2011","bl","AD",55.6,"Female",16,"Not Hisp/Latino","White","Married",4.5,26
+"S153419","016_S_4584","6/5/2012","m03","LMCI",78.3,"Female",16,"Not Hisp/Latino","White","Married",NA,NA
+"S172678","016_S_4584","10/29/2012","m06","LMCI",78.3,"Female",16,"Not Hisp/Latino","White","Married",1,28
+"S186912","016_S_4584","4/13/2013","m12","LMCI",78.3,"Female",16,"Not Hisp/Latino","White","Married",1,26
+"S144848","016_S_4584","3/27/2012","bl","LMCI",78.3,"Female",16,"Not Hisp/Latino","White","Married",0.5,27
+"S154152","016_S_4591","6/14/2012","m03","AD",65.9,"Female",13,"Not Hisp/Latino","White","Married",NA,NA
+"S170150","016_S_4591","10/4/2012","m06","AD",65.9,"Female",13,"Not Hisp/Latino","White","Married",4.5,26
+"S185716","016_S_4591","4/1/2013","m12","AD",65.9,"Female",13,"Not Hisp/Latino","White","Married",4.5,28
+"S144582","016_S_4591","3/22/2012","bl","AD",65.9,"Female",13,"Not Hisp/Latino","White","Married",4,23
+"S158610","016_S_4601","7/25/2012","m03","EMCI",72.8,"Male",16,"Hisp/Latino","White","Married",NA,NA
+"S145638","016_S_4601","4/2/2012","bl","EMCI",72.8,"Male",16,"Hisp/Latino","White","Married",1,29
+"S162181","016_S_4638","8/21/2012","m03","CN",74,"Male",17,"Hisp/Latino","White","Divorced",NA,NA
+"S181334","016_S_4638","2/1/2013","m06","CN",74,"Male",17,"Hisp/Latino","White","Divorced",0.5,29
+"S199776","016_S_4638","9/4/2013","m12","CN",74,"Male",17,"Hisp/Latino","White","Divorced",0,29
+"S150048","016_S_4646","5/10/2012","bl","LMCI",60.8,"Female",16,"Not Hisp/Latino","White","Married",1,30
+"S161034","016_S_4646","8/14/2012","m03","LMCI",60.8,"Female",16,"Not Hisp/Latino","White","Married",NA,NA
+"S175988","016_S_4646","11/29/2012","m06","LMCI",60.8,"Female",16,"Not Hisp/Latino","White","Married",1,29
+"S189462","016_S_4646","5/14/2013","m12","LMCI",60.8,"Female",16,"Not Hisp/Latino","White","Married",2,27
+"S221925","016_S_4646","6/10/2014","m24","LMCI",60.8,"Female",16,"Not Hisp/Latino","White","Married",2,27
+"S166985","016_S_4688","9/11/2012","m03","CN",81.7,"Female",14,"Hisp/Latino","White","Widowed",NA,NA
+"S182493","016_S_4688","2/13/2013","m06","CN",81.7,"Female",14,"Hisp/Latino","White","Widowed",0,29
+"S153813","016_S_4688","6/11/2012","bl","CN",81.7,"Female",14,"Hisp/Latino","White","Widowed",0,30
+"S175094","016_S_4887","11/19/2012","m03","AD",73.8,"Male",12,"Hisp/Latino","White","Divorced",NA,NA
+"S188469","016_S_4887","4/30/2013","m06","AD",73.8,"Male",12,"Hisp/Latino","White","Divorced",4.5,25
+"S202829","016_S_4887","10/1/2013","m12","AD",73.8,"Male",12,"Hisp/Latino","White","Divorced",4.5,24
+"S162208","016_S_4887","8/21/2012","bl","AD",73.8,"Male",12,"Hisp/Latino","White","Divorced",4.5,26
+"S173861","016_S_4902","11/7/2012","m03","LMCI",75.3,"Female",15,"Hisp/Latino","White","Divorced",NA,NA
+"S184237","016_S_4902","3/12/2013","m06","LMCI",75.3,"Female",15,"Hisp/Latino","White","Divorced",2,23
+"S200269","016_S_4902","9/10/2013","m12","LMCI",75.3,"Female",15,"Hisp/Latino","White","Divorced",3.5,25
+"S231046","016_S_4902","9/15/2014","m24","LMCI",75.3,"Female",15,"Hisp/Latino","White","Divorced",4.5,23
+"S410097","016_S_4902","12/18/2015","m36","LMCI",75.3,"Female",15,"Hisp/Latino","White","Divorced",5,23
+"S162233","016_S_4902","8/21/2012","bl","LMCI",75.3,"Female",15,"Hisp/Latino","White","Divorced",1.5,25
+"S189606","016_S_4951","5/15/2013","m06","CN",71.9,"Female",14,"Hisp/Latino","White","Widowed",0,30
+"S206048","016_S_4951","11/13/2013","m12","CN",71.9,"Female",14,"Hisp/Latino","White","Widowed",0.5,30
+"S326190","016_S_4951","12/2/2015","m36","CN",71.9,"Female",14,"Hisp/Latino","White","Widowed",0.5,30
+"S169341","016_S_4951","10/1/2012","bl","CN",71.9,"Female",14,"Hisp/Latino","White","Widowed",0,29
+"S178871","016_S_4952","1/3/2013","m03","CN",69.3,"Female",12,"Hisp/Latino","White","Married",NA,NA
+"S189582","016_S_4952","5/15/2013","m06","CN",69.3,"Female",12,"Hisp/Latino","White","Married",0.5,30
+"S206038","016_S_4952","11/13/2013","m12","CN",69.3,"Female",12,"Hisp/Latino","White","Married",0.5,30
+"S326252","016_S_4952","12/2/2015","m36","CN",69.3,"Female",12,"Hisp/Latino","White","Married",0.5,30
+"S169416","016_S_4952","10/1/2012","bl","CN",69.3,"Female",12,"Hisp/Latino","White","Married",0,28
+"S184219","016_S_5007","3/11/2013","m03","EMCI",71.5,"Male",14,"Hisp/Latino","White","Married",NA,NA
+"S201163","016_S_5007","9/16/2013","m06","EMCI",71.5,"Male",14,"Hisp/Latino","White","Married",1.5,28
+"S250074","016_S_5007","2/23/2015","m24","EMCI",71.5,"Male",14,"Hisp/Latino","White","Married",3,29
+"S176279","016_S_5007","12/3/2012","bl","EMCI",71.5,"Male",14,"Hisp/Latino","White","Married",1,27
+"S257563","016_S_5031","5/4/2015","m24","EMCI",80.2,"Female",14,"Hisp/Latino","White","Married",5.5,23
+"S182507","016_S_5031","2/13/2013","bl","EMCI",80.2,"Female",14,"Hisp/Latino","White","Married",2,25
+"S199725","016_S_5032","8/29/2013","m06","AD",77.5,"Female",11,"Not Hisp/Latino","More than one","Married",5,23
+"S210764","016_S_5032","1/20/2014","m12","AD",77.5,"Female",11,"Not Hisp/Latino","More than one","Married",7,20
+"S175944","016_S_5032","11/29/2012","bl","AD",77.5,"Female",11,"Not Hisp/Latino","More than one","Married",4.5,23
+"S190959","016_S_5057","5/29/2013","m03","AD",75.2,"Male",16,"Not Hisp/Latino","White","Married",NA,NA
+"S216871","016_S_5057","4/22/2014","m12","AD",75.2,"Male",16,"Not Hisp/Latino","White","Married",1,28
+"S183091","016_S_5057","2/25/2013","bl","AD",75.2,"Male",16,"Not Hisp/Latino","White","Married",1,26
+"S171210","021_S_2077","10/17/2012","m24","EMCI",81,"Male",20,"Not Hisp/Latino","White","Married",0.5,29
+"S234311","021_S_2077","10/21/2014","m48","EMCI",81,"Male",20,"Not Hisp/Latino","White","Married",0.5,28
+"S96175","021_S_2077","12/8/2010","m03","EMCI",81,"Male",20,"Not Hisp/Latino","White","Married",NA,NA
+"S103125","021_S_2100","4/4/2011","m06","EMCI",87.8,"Female",13,"Not Hisp/Latino","White","Widowed",1,29
+"S234107","021_S_2100","10/20/2014","m48","EMCI",87.8,"Female",13,"Not Hisp/Latino","White","Widowed",1.5,27
+"S97609","021_S_2100","1/13/2011","m03","EMCI",87.8,"Female",13,"Not Hisp/Latino","White","Widowed",NA,NA
+"S92816","021_S_2100","9/28/2010","bl","EMCI",87.8,"Female",13,"Not Hisp/Latino","White","Widowed",1,25
+"S107693","021_S_2124","5/3/2011","m06","EMCI",82.3,"Female",15,"Not Hisp/Latino","White","Married",1,26
+"S98001","021_S_2124","1/19/2011","m03","EMCI",82.3,"Female",15,"Not Hisp/Latino","White","Married",NA,NA
+"S93429","021_S_2124","10/15/2010","bl","EMCI",82.3,"Female",15,"Not Hisp/Latino","White","Married",1,29
+"S126210","021_S_2125","10/24/2011","m12","EMCI",78.1,"Female",17,"Not Hisp/Latino","White","Married",0.5,28
+"S171953","021_S_2125","10/24/2012","m24","EMCI",78.1,"Female",17,"Not Hisp/Latino","White","Married",0.5,29
+"S93368","021_S_2125","10/13/2010","bl","EMCI",78.1,"Female",17,"Not Hisp/Latino","White","Married",0.5,28
+"S98043","021_S_2125","1/21/2011","m03","EMCI",78.1,"Female",17,"Not Hisp/Latino","White","Married",NA,NA
+"S173734","021_S_2142","11/7/2012","m24","EMCI",82.7,"Female",12,"Not Hisp/Latino","White","Widowed",2,24
+"S93658","021_S_2142","10/22/2010","bl","EMCI",82.7,"Female",12,"Not Hisp/Latino","White","Widowed",0.5,26
+"S107393","021_S_2150","5/2/2011","m06","EMCI",72.7,"Male",14,"Not Hisp/Latino","White","Married",0.5,27
+"S94011","021_S_2150","11/1/2010","bl","EMCI",72.7,"Male",14,"Not Hisp/Latino","White","Married",0.5,26
+"S134538","021_S_4245","12/21/2011","m03","EMCI",73.6,"Male",19,"Not Hisp/Latino","Asian","Married",NA,NA
+"S170015","021_S_4245","10/8/2012","m12","EMCI",73.6,"Male",19,"Not Hisp/Latino","Asian","Married",3.5,26
+"S333738","021_S_4245","11/12/2015","m48","EMCI",73.6,"Male",19,"Not Hisp/Latino","Asian","Married",5,27
+"S123116","021_S_4245","9/22/2011","bl","EMCI",73.6,"Male",19,"Not Hisp/Latino","Asian","Married",1.5,26
+"S133984","021_S_4254","12/19/2011","m03","CN",85.9,"Female",12,"Not Hisp/Latino","White","Widowed",NA,NA
+"S169501","021_S_4254","10/3/2012","m12","CN",85.9,"Female",12,"Not Hisp/Latino","White","Widowed",0,27
+"S282437","021_S_4254","10/1/2015","m48","CN",85.9,"Female",12,"Not Hisp/Latino","White","Widowed",0,26
+"S123446","021_S_4254","9/26/2011","bl","CN",85.9,"Female",12,"Not Hisp/Latino","White","Widowed",0,26
+"S171658","021_S_4276","10/22/2012","m12","CN",73.9,"Female",12,"Not Hisp/Latino","White","Married",0,30
+"S287974","021_S_4276","10/14/2015","m48","CN",73.9,"Female",12,"Not Hisp/Latino","White","Married",0,30
+"S174599","021_S_4335","11/14/2012","m12","CN",71.7,"Female",15,"Not Hisp/Latino","White","Married",0,28
+"S303132","021_S_4335","11/9/2015","m48","CN",71.7,"Female",15,"Not Hisp/Latino","White","Married",0,30
+"S143622","021_S_4402","3/12/2012","m03","LMCI",72.9,"Female",12,"Not Hisp/Latino","White","Widowed",NA,NA
+"S158919","021_S_4402","7/30/2012","m06","LMCI",72.9,"Female",12,"Not Hisp/Latino","White","Widowed",4,25
+"S182255","021_S_4402","2/13/2013","m12","LMCI",72.9,"Female",12,"Not Hisp/Latino","White","Widowed",5,23
+"S209834","021_S_4402","1/6/2014","m24","LMCI",72.9,"Female",12,"Not Hisp/Latino","White","Widowed",7,18
+"S158118","021_S_4421","7/19/2012","m06","CN",75.1,"Female",14,"Not Hisp/Latino","White","Married",0,29
+"S209838","021_S_4421","1/7/2014","m24","CN",75.1,"Female",14,"Not Hisp/Latino","White","Married",0,28
+"S134203","021_S_4421","12/20/2011","bl","CN",75.1,"Female",14,"Not Hisp/Latino","White","Married",0,26
+"S157662","021_S_4659","7/16/2012","m03","EMCI",85.9,"Male",17,"Not Hisp/Latino","White","Widowed",NA,NA
+"S172547","021_S_4659","10/29/2012","m06","EMCI",85.9,"Male",17,"Not Hisp/Latino","White","Widowed",1.5,26
+"S216476","021_S_4659","4/17/2014","m24","EMCI",85.9,"Male",17,"Not Hisp/Latino","White","Widowed",2,27
+"S434390","021_S_4659","5/4/2016","m48","EMCI",85.9,"Male",17,"Not Hisp/Latino","White","Widowed",4.5,23
+"S150666","021_S_4718","5/16/2012","bl","AD",78.5,"Male",12,"Not Hisp/Latino","White","Married",6,20
+"S176127","021_S_4718","12/3/2012","m06","AD",78.5,"Male",12,"Not Hisp/Latino","White","Married",8,15
+"S190173","021_S_4718","5/21/2013","m12","AD",78.5,"Male",12,"Not Hisp/Latino","White","Married",10,16
+"S162740","021_S_4744","8/27/2012","m03","EMCI",72.3,"Female",12,"Not Hisp/Latino","White","Married",NA,NA
+"S176362","021_S_4744","12/4/2012","m06","EMCI",72.3,"Female",12,"Not Hisp/Latino","White","Married",0.5,28
+"S191223","021_S_4744","6/3/2013","m12","EMCI",72.3,"Female",12,"Not Hisp/Latino","White","Married",0.5,30
+"S221821","021_S_4744","6/10/2014","m24","EMCI",72.3,"Female",12,"Not Hisp/Latino","White","Married",0.5,26
+"S465258","021_S_4744","6/14/2016","m48","EMCI",72.3,"Female",12,"Not Hisp/Latino","White","Married",0.5,26
+"S171822","021_S_4857","10/23/2012","m03","LMCI",68.3,"Male",16,"Not Hisp/Latino","White","Married",NA,NA
+"S226235","021_S_4857","7/23/2014","m24","LMCI",68.3,"Male",16,"Not Hisp/Latino","White","Married",6,26
+"S158483","021_S_4857","7/24/2012","bl","LMCI",68.3,"Male",16,"Not Hisp/Latino","White","Married",3,27
+"S214758","021_S_5099","3/24/2014","m12","EMCI",61.6,"Female",16,"Not Hisp/Latino","White","Married",2.5,27
+"S250579","021_S_5099","3/3/2015","m24","EMCI",61.6,"Female",16,"Not Hisp/Latino","White","Married",2.5,25
+"S267016","021_S_5236","7/24/2015","m24","SMC",85.3,"Male",16,"Not Hisp/Latino","White","Married",0,28
+"S202530","021_S_5236","9/30/2013","m03","SMC",85.3,"Male",16,"Not Hisp/Latino","White","Married",NA,NA
+"S208554","027_S_2183","12/18/2013","m36","EMCI",83,"Male",18,"Not Hisp/Latino","White","Married",2,27
+"S245816","027_S_2183","1/21/2015","m48","EMCI",83,"Male",18,"Not Hisp/Latino","White","Married",2,30
+"S355067","027_S_2183","1/19/2016","m60","EMCI",83,"Male",18,"Not Hisp/Latino","White","Married",2.5,23
+"S100964","027_S_2219","3/3/2011","m03","EMCI",74.3,"Male",18,"Not Hisp/Latino","White","Married",NA,NA
+"S108541","027_S_2219","5/9/2011","m06","EMCI",74.3,"Male",18,"Not Hisp/Latino","White","Married",NA,30
+"S132057","027_S_2219","12/6/2011","m12","EMCI",74.3,"Male",18,"Not Hisp/Latino","White","Married",2,29
+"S178705","027_S_2219","12/28/2012","m24","EMCI",74.3,"Male",18,"Not Hisp/Latino","White","Married",1,29
+"S209489","027_S_2219","12/27/2013","m36","EMCI",74.3,"Male",18,"Not Hisp/Latino","White","Married",1,29
+"S244530","027_S_2219","1/7/2015","m48","EMCI",74.3,"Male",18,"Not Hisp/Latino","White","Married",1,28
+"S96031","027_S_2219","12/7/2010","bl","EMCI",74.3,"Male",18,"Not Hisp/Latino","White","Married",1,29
+"S102030","027_S_2245","3/19/2011","m03","EMCI",57,"Female",20,"Not Hisp/Latino","White","Divorced",NA,NA
+"S110933","027_S_2245","6/6/2011","m06","EMCI",57,"Female",20,"Not Hisp/Latino","White","Divorced",1,30
+"S180570","027_S_2245","1/22/2013","m24","EMCI",57,"Female",20,"Not Hisp/Latino","White","Divorced",1,29
+"S210105","027_S_2245","1/13/2014","m36","EMCI",57,"Female",20,"Not Hisp/Latino","White","Divorced",0.5,28
+"S245044","027_S_2245","1/15/2015","m48","EMCI",57,"Female",20,"Not Hisp/Latino","White","Divorced",0.5,30
+"S377798","027_S_2245","2/18/2016","m60","EMCI",57,"Female",20,"Not Hisp/Latino","White","Divorced",0.5,30
+"S96495","027_S_2245","12/14/2010","bl","EMCI",57,"Female",20,"Not Hisp/Latino","White","Divorced",1,28
+"S126508","027_S_2336","10/25/2011","m06","EMCI",72.9,"Female",12,"Not Hisp/Latino","White","Married",1,30
+"S144906","027_S_2336","3/26/2012","m12","EMCI",72.9,"Female",12,"Not Hisp/Latino","White","Married",1,29
+"S217062","027_S_2336","4/25/2014","m36","EMCI",72.9,"Female",12,"Not Hisp/Latino","White","Married",1,26
+"S255661","027_S_2336","4/14/2015","m48","EMCI",72.9,"Female",12,"Not Hisp/Latino","White","Married",2.5,26
+"S188579","027_S_2336","5/2/2013","m24","EMCI",72.9,"Female",12,"Not Hisp/Latino","White","Married",1,28
+"S480167","027_S_2336","6/30/2016","m60","EMCI",72.9,"Female",12,"Not Hisp/Latino","White","Married",3,28
+"S102041","027_S_2336","3/20/2011","bl","EMCI",72.9,"Female",12,"Not Hisp/Latino","White","Married",1,30
+"S160565","027_S_4729","8/11/2012","m03","LMCI",77.8,"Female",19,"Not Hisp/Latino","White","Married",NA,NA
+"S177629","027_S_4729","12/13/2012","m06","LMCI",77.8,"Female",19,"Not Hisp/Latino","White","Married",2.5,25
+"S190084","027_S_4729","5/20/2013","m12","LMCI",77.8,"Female",19,"Not Hisp/Latino","White","Married",3.5,26
+"S222288","027_S_4729","6/16/2014","m24","LMCI",77.8,"Female",19,"Not Hisp/Latino","White","Married",4,24
+"S151452","027_S_4729","5/22/2012","bl","LMCI",77.8,"Female",19,"Not Hisp/Latino","White","Married",2.5,27
+"S180501","027_S_4801","1/18/2013","m06","AD",77.7,"Male",16,"Not Hisp/Latino","White","Married",4.5,21
+"S196156","027_S_4801","7/23/2013","m12","AD",77.7,"Male",16,"Not Hisp/Latino","White","Married",5,17
+"S158231","027_S_4802","7/22/2012","bl","AD",83.2,"Male",19,"Not Hisp/Latino","White","Married",4.5,26
+"S179812","027_S_4802","1/10/2013","m06","AD",83.2,"Male",19,"Not Hisp/Latino","White","Married",5,24
+"S195324","027_S_4802","7/16/2013","m12","AD",83.2,"Male",19,"Not Hisp/Latino","White","Married",5,22
+"S157708","027_S_4804","7/16/2012","bl","LMCI",79.4,"Male",16,"Not Hisp/Latino","White","Widowed",1.5,29
+"S172928","027_S_4804","11/1/2012","m03","LMCI",79.4,"Male",16,"Not Hisp/Latino","White","Widowed",NA,NA
+"S180581","027_S_4804","1/22/2013","m06","LMCI",79.4,"Male",16,"Not Hisp/Latino","White","Widowed",2,28
+"S195989","027_S_4804","7/22/2013","m12","LMCI",79.4,"Male",16,"Not Hisp/Latino","White","Widowed",2,29
+"S175327","027_S_4869","11/20/2012","m03","LMCI",77.2,"Male",19,"Not Hisp/Latino","White","Married",NA,NA
+"S187463","027_S_4869","4/18/2013","m06","LMCI",77.2,"Male",19,"Not Hisp/Latino","White","Married",3,30
+"S201041","027_S_4869","9/17/2013","m12","LMCI",77.2,"Male",19,"Not Hisp/Latino","White","Married",1.5,30
+"S232253","027_S_4869","9/30/2014","m24","LMCI",77.2,"Male",19,"Not Hisp/Latino","White","Married",1.5,29
+"S161648","027_S_4869","8/19/2012","bl","LMCI",77.2,"Male",19,"Not Hisp/Latino","White","Married",1.5,29
+"S160383","027_S_4873","8/8/2012","bl","LMCI",82.6,"Male",12,"Not Hisp/Latino","White","Married",3,26
+"S174473","027_S_4873","11/13/2012","m03","LMCI",82.6,"Male",12,"Not Hisp/Latino","White","Married",NA,NA
+"S183008","027_S_4873","2/25/2013","m06","LMCI",82.6,"Male",12,"Not Hisp/Latino","White","Married",3.5,24
+"S209516","027_S_4873","12/30/2013","m12","LMCI",82.6,"Male",12,"Not Hisp/Latino","White","Married",3.5,21
+"S227542","027_S_4873","8/14/2014","m24","LMCI",82.6,"Male",12,"Not Hisp/Latino","White","Married",2.5,22
+"S176382","027_S_4919","12/4/2012","m03","EMCI",74.8,"Female",19,"Not Hisp/Latino","White","Married",NA,NA
+"S184991","027_S_4919","3/21/2013","m06","EMCI",74.8,"Female",19,"Not Hisp/Latino","White","Married",2,28
+"S202226","027_S_4919","9/26/2013","m12","EMCI",74.8,"Female",19,"Not Hisp/Latino","White","Married",2,30
+"S230551","027_S_4919","9/9/2014","m24","EMCI",74.8,"Female",19,"Not Hisp/Latino","White","Married",2,28
+"S333223","027_S_4919","12/17/2015","m36","EMCI",74.8,"Female",19,"Not Hisp/Latino","White","Married",1.5,26
+"S178049","027_S_4926","12/18/2012","m03","EMCI",62.5,"Male",18,"Not Hisp/Latino","White","Married",NA,NA
+"S184479","027_S_4926","3/14/2013","m06","EMCI",62.5,"Male",18,"Not Hisp/Latino","White","Married",2,30
+"S234671","027_S_4926","10/24/2014","m24","EMCI",62.5,"Male",18,"Not Hisp/Latino","White","Married",1,29
+"S203578","027_S_4926","10/9/2013","m12","EMCI",62.5,"Male",18,"Not Hisp/Latino","White","Married",2,29
+"S311432","027_S_4926","11/19/2015","m36","EMCI",62.5,"Male",18,"Not Hisp/Latino","White","Married",0.5,30
+"S178577","027_S_4936","12/21/2012","m03","LMCI",78.1,"Male",19,"Not Hisp/Latino","White","Married",NA,NA
+"S186302","027_S_4936","4/9/2013","m06","LMCI",78.1,"Male",19,"Not Hisp/Latino","White","Married",3.5,24
+"S200938","027_S_4936","9/16/2013","m12","LMCI",78.1,"Male",19,"Not Hisp/Latino","White","Married",3.5,26
+"S231398","027_S_4936","9/19/2014","m24","LMCI",78.1,"Male",19,"Not Hisp/Latino","White","Married",4.5,22
+"S178645","027_S_4938","12/26/2012","m03","AD",70.9,"Male",16,"Not Hisp/Latino","White","Married",NA,NA
+"S185594","027_S_4938","4/1/2013","m06","AD",70.9,"Male",16,"Not Hisp/Latino","White","Married",5,24
+"S203766","027_S_4938","10/14/2013","m12","AD",70.9,"Male",16,"Not Hisp/Latino","White","Married",5,23
+"S178169","027_S_4943","12/19/2012","m03","LMCI",76.1,"Male",20,"Not Hisp/Latino","White","Married",NA,NA
+"S180446","027_S_4955","1/17/2013","m03","LMCI",71.4,"Male",16,"Not Hisp/Latino","White","Married",NA,NA
+"S188685","027_S_4955","5/6/2013","m06","LMCI",71.4,"Male",16,"Not Hisp/Latino","White","Married",2.5,25
+"S204386","027_S_4955","10/21/2013","m12","LMCI",71.4,"Male",16,"Not Hisp/Latino","White","Married",2.5,22
+"S179672","027_S_4962","1/8/2013","m03","AD",80.1,"Female",18,"Not Hisp/Latino","White","Married",NA,NA
+"S186759","027_S_4962","4/11/2013","m06","AD",80.1,"Female",18,"Not Hisp/Latino","White","Married",3.5,22
+"S203512","027_S_4962","10/8/2013","m12","AD",80.1,"Female",18,"Not Hisp/Latino","White","Married",4.5,21
+"S180395","027_S_4964","1/16/2013","m03","AD",80.9,"Male",16,"Not Hisp/Latino","White","Married",NA,NA
+"S187766","027_S_4964","4/23/2013","m06","AD",80.9,"Male",16,"Not Hisp/Latino","White","Married",7,23
+"S203555","027_S_4964","10/8/2013","m12","AD",80.9,"Male",16,"Not Hisp/Latino","White","Married",7,22
+"S178914","027_S_4966","1/6/2013","m03","EMCI",61.7,"Male",16,"Not Hisp/Latino","White","Married",NA,NA
+"S187984","027_S_4966","4/25/2013","m06","EMCI",61.7,"Male",16,"Not Hisp/Latino","White","Married",1,30
+"S204287","027_S_4966","10/19/2013","m12","EMCI",61.7,"Male",16,"Not Hisp/Latino","White","Married",1,30
+"S182235","027_S_5079","2/12/2013","bl","SMC",73.2,"Male",18,"Not Hisp/Latino","White","Married",0.5,29
+"S189821","027_S_5079","5/16/2013","m03","SMC",73.2,"Male",18,"Not Hisp/Latino","White","Married",NA,NA
+"S200313","027_S_5079","9/10/2013","m06","SMC",73.2,"Male",18,"Not Hisp/Latino","White","Married",1.5,29
+"S214695","027_S_5079","3/25/2014","m12","SMC",73.2,"Male",18,"Not Hisp/Latino","White","Married",0.5,29
+"S252640","027_S_5079","3/19/2015","m24","SMC",73.2,"Male",18,"Not Hisp/Latino","White","Married",0,29
+"S190168","027_S_5083","5/21/2013","m03","SMC",73.7,"Male",16,"Not Hisp/Latino","White","Married",NA,NA
+"S215155","027_S_5083","4/1/2014","m12","SMC",73.7,"Male",16,"Not Hisp/Latino","White","Married",0,28
+"S252883","027_S_5083","3/25/2015","m24","SMC",73.7,"Male",16,"Not Hisp/Latino","White","Married",0,29
+"S182860","027_S_5083","2/21/2013","bl","SMC",73.7,"Male",16,"Not Hisp/Latino","White","Married",0,28
+"S191803","027_S_5093","6/7/2013","m03","SMC",69.3,"Female",19,"Not Hisp/Latino","White","Married",NA,NA
+"S200675","027_S_5093","9/12/2013","m06","SMC",69.3,"Female",19,"Not Hisp/Latino","White","Married",0.5,30
+"S214184","027_S_5093","3/17/2014","m12","SMC",69.3,"Female",19,"Not Hisp/Latino","White","Married",0,29
+"S251222","027_S_5093","3/12/2015","m24","SMC",69.3,"Female",19,"Not Hisp/Latino","White","Married",0,30
+"S183314","027_S_5093","2/27/2013","bl","SMC",69.3,"Female",19,"Not Hisp/Latino","White","Married",0.5,30
+"S202453","027_S_5109","9/30/2013","m06","SMC",78.4,"Male",14,"Not Hisp/Latino","White","Married",0,28
+"S217138","027_S_5109","4/25/2014","m12","SMC",78.4,"Male",14,"Not Hisp/Latino","White","Married",0,27
+"S265864","027_S_5109","6/24/2013","m03","SMC",78.4,"Male",14,"Not Hisp/Latino","White","Married",NA,NA
+"S259433","027_S_5109","5/13/2015","m24","SMC",78.4,"Male",14,"Not Hisp/Latino","White","Married",0,28
+"S185226","027_S_5109","3/25/2013","bl","SMC",78.4,"Male",14,"Not Hisp/Latino","White","Married",0,27
+"S193582","027_S_5110","6/27/2013","m03","SMC",68.8,"Female",14,"Not Hisp/Latino","White","Married",NA,NA
+"S217315","027_S_5110","4/29/2014","m12","SMC",68.8,"Female",14,"Not Hisp/Latino","White","Married",1,26
+"S259790","027_S_5110","5/14/2015","m24","SMC",68.8,"Female",14,"Not Hisp/Latino","White","Married",0.5,27
+"S184798","027_S_5110","3/20/2013","bl","SMC",68.8,"Female",14,"Not Hisp/Latino","White","Married",0.5,25
+"S192442","027_S_5118","6/14/2013","m03","SMC",68.2,"Female",20,"Not Hisp/Latino","White","Widowed",NA,NA
+"S216741","027_S_5118","4/22/2014","m12","SMC",68.2,"Female",20,"Not Hisp/Latino","White","Widowed",0.5,30
+"S260799","027_S_5118","5/20/2015","m24","SMC",68.2,"Female",20,"Not Hisp/Latino","White","Widowed",0.5,30
+"S186178","027_S_5127","4/8/2013","bl","SMC",76.3,"Female",19,"Not Hisp/Latino","White","Married",0.5,29
+"S194224","027_S_5127","7/8/2013","m03","SMC",76.3,"Female",19,"Not Hisp/Latino","White","Married",NA,NA
+"S217448","027_S_5127","4/30/2014","m12","SMC",76.3,"Female",19,"Not Hisp/Latino","White","Married",0.5,30
+"S261518","027_S_5127","5/27/2015","m24","SMC",76.3,"Female",19,"Not Hisp/Latino","White","Married",0.5,30
+"S190359","027_S_5169","5/22/2013","bl","SMC",65.7,"Female",18,"Not Hisp/Latino","White","Widowed",0,30
+"S199503","027_S_5169","8/27/2013","m03","SMC",65.7,"Female",18,"Not Hisp/Latino","White","Widowed",NA,NA
+"S262116","027_S_5169","6/5/2015","m24","SMC",65.7,"Female",18,"Not Hisp/Latino","White","Widowed",0,30
+"S190376","027_S_5170","5/23/2013","bl","SMC",76.9,"Male",20,"Not Hisp/Latino","White","Married",0.5,30
+"S200279","027_S_5170","9/3/2013","m03","SMC",76.9,"Male",20,"Not Hisp/Latino","White","Married",NA,NA
+"S339326","027_S_5170","8/27/2015","m24","SMC",76.9,"Male",20,"Not Hisp/Latino","White","Married",0.5,30
+"S191817","027_S_5197","6/9/2013","bl","SMC",78.9,"Female",18,"Not Hisp/Latino","White","Married",0,30
+"S201661","027_S_5197","9/19/2013","m03","SMC",78.9,"Female",18,"Not Hisp/Latino","White","Married",NA,NA
+"S263944","027_S_5197","6/23/2015","m24","SMC",78.9,"Female",18,"Not Hisp/Latino","White","Married",0,27
+"S198496","027_S_5277","8/20/2013","bl","SMC",71.8,"Female",15,"Not Hisp/Latino","White","Widowed",0.5,28
+"S271319","027_S_5277","9/2/2015","m24","SMC",71.8,"Female",15,"Not Hisp/Latino","White","Widowed",0.5,24
+"S201419","027_S_5288","9/18/2013","bl","SMC",81.9,"Female",18,"Not Hisp/Latino","White","Never married",0,30
+"S283053","027_S_5288","10/5/2015","m24","SMC",81.9,"Female",18,"Not Hisp/Latino","White","Never married",0,30
+"S197880","029_S_2395","8/13/2013","m24","EMCI",72.6,"Male",19,"Not Hisp/Latino","White","Married",1,30
+"S180847","029_S_4279","1/18/2013","m12","CN",83.7,"Male",16,"Not Hisp/Latino","Asian","Married",0,30
+"S216918","029_S_4279","4/21/2014","m24","CN",83.7,"Male",16,"Not Hisp/Latino","Asian","Married",0,30
+"S206151","029_S_4290","11/13/2013","m24","CN",73.5,"Male",20,"Not Hisp/Latino","White","Married",0,29
+"S182539","029_S_4307","2/14/2013","m12","AD",78.5,"Male",16,"Not Hisp/Latino","White","Married",7,18
+"S179931","029_S_4327","1/9/2013","m12","EMCI",82.9,"Male",12,"Not Hisp/Latino","White","Divorced",1.5,25
+"S182549","029_S_4384","2/14/2013","m12","CN",62.3,"Male",18,"Not Hisp/Latino","Am Indian/Alaskan","Never married",0,29
+"S216970","029_S_4384","4/23/2014","m24","CN",62.3,"Male",18,"Not Hisp/Latino","Am Indian/Alaskan","Never married",0,30
+"S216944","029_S_4385","4/22/2014","m24","CN",68.2,"Female",12,"Not Hisp/Latino","White","Married",1,26
+"S190389","029_S_4585","5/22/2013","m12","CN",65.3,"Male",13,"Not Hisp/Latino","White","Married",0,29
+"S192896","029_S_4652","6/5/2013","m12","CN",79.3,"Male",20,"Not Hisp/Latino","Asian","Married",0,27
+"S197161","029_S_5135","8/1/2013","m03","EMCI",77,"Male",16,"Not Hisp/Latino","White","Married",NA,NA
+"S188029","029_S_5135","4/24/2013","bl","EMCI",77,"Male",16,"Not Hisp/Latino","White","Married",0.5,28
+"S202376","029_S_5158","9/26/2013","m03","SMC",74.1,"Female",19,"Not Hisp/Latino","White","Married",NA,NA
+"S193185","029_S_5158","6/21/2013","bl","SMC",74.1,"Female",19,"Not Hisp/Latino","White","Married",0,30
+"S198770","029_S_5166","8/20/2013","m03","SMC",65.1,"Female",20,"Not Hisp/Latino","White","Never married",NA,NA
+"S190414","029_S_5166","5/22/2013","bl","SMC",65.1,"Female",20,"Not Hisp/Latino","White","Never married",0,29
+"S202152","029_S_5219","9/25/2013","m03","SMC",75.7,"Male",16,"Not Hisp/Latino","White","Married",NA,NA
+"S193440","029_S_5219","6/25/2013","bl","SMC",75.7,"Male",16,"Not Hisp/Latino","White","Married",0,24
+"S108816","052_S_2249","5/10/2011","m03","EMCI",75.8,"Male",15,"Not Hisp/Latino","White","Married",NA,NA
+"S114221","052_S_2249","7/11/2011","m06","EMCI",75.8,"Male",15,"Not Hisp/Latino","White","Married",0.5,30
+"S135060","052_S_2249","12/30/2011","m12","EMCI",75.8,"Male",15,"Not Hisp/Latino","White","Married",0.5,29
+"S179343","052_S_2249","1/7/2013","m24","EMCI",75.8,"Male",15,"Not Hisp/Latino","White","Married",1.5,30
+"S244922","052_S_2249","1/12/2015","m48","EMCI",75.8,"Male",15,"Not Hisp/Latino","White","Married",1,30
+"S146347","052_S_4626","4/3/2012","bl","LMCI",69.2,"Male",18,"Not Hisp/Latino","White","Married",1,29
+"S158739","052_S_4626","7/27/2012","m03","LMCI",69.2,"Male",18,"Not Hisp/Latino","White","Married",NA,NA
+"S172557","052_S_4626","10/29/2012","m06","LMCI",69.2,"Male",18,"Not Hisp/Latino","White","Married",0.5,29
+"S191664","052_S_4626","4/29/2013","m12","LMCI",69.2,"Male",18,"Not Hisp/Latino","White","Married",0.5,29
+"S218723","052_S_4626","5/16/2014","m24","LMCI",69.2,"Male",18,"Not Hisp/Latino","White","Married",0.5,27
+"S255860","052_S_4626","4/15/2015","m36","LMCI",69.2,"Male",18,"Not Hisp/Latino","White","Married",0,30
+"S171784","052_S_4807","10/19/2012","m03","LMCI",72,"Female",16,"Not Hisp/Latino","White","Married",NA,NA
+"S182453","052_S_4807","2/15/2013","m06","LMCI",72,"Female",16,"Not Hisp/Latino","White","Married",2,27
+"S197833","052_S_4807","8/13/2013","m12","LMCI",72,"Female",16,"Not Hisp/Latino","White","Married",2,27
+"S227075","052_S_4807","8/7/2014","m24","LMCI",72,"Female",16,"Not Hisp/Latino","White","Married",1.5,28
+"S268215","052_S_4807","8/4/2015","m36","LMCI",72,"Female",16,"Not Hisp/Latino","White","Married",5.5,25
+"S158743","052_S_4807","7/27/2012","bl","LMCI",72,"Female",16,"Not Hisp/Latino","White","Married",2.5,29
+"S162351","052_S_4885","8/10/2012","bl","LMCI",75,"Male",20,"Not Hisp/Latino","White","Married",2,29
+"S174181","052_S_4885","11/12/2012","m03","LMCI",75,"Male",20,"Not Hisp/Latino","White","Married",NA,NA
+"S183629","052_S_4885","3/4/2013","m06","LMCI",75,"Male",20,"Not Hisp/Latino","White","Married",2.5,29
+"S228511","052_S_4885","8/22/2014","m24","LMCI",75,"Male",20,"Not Hisp/Latino","White","Married",3.5,27
+"S200360","052_S_4885","9/11/2013","m12","LMCI",75,"Male",20,"Not Hisp/Latino","White","Married",2.5,30
+"S187415","052_S_4944","4/19/2013","m03","EMCI",68,"Male",14,"Not Hisp/Latino","White","Married",NA,NA
+"S194410","052_S_4944","7/10/2013","m06","EMCI",68,"Male",14,"Not Hisp/Latino","White","Married",1,28
+"S211672","052_S_4944","1/31/2014","m12","EMCI",68,"Male",14,"Not Hisp/Latino","White","Married",1,25
+"S244983","052_S_4944","1/14/2015","m24","EMCI",68,"Male",14,"Not Hisp/Latino","White","Married",1,27
+"S369512","052_S_4944","2/5/2016","m36","EMCI",68,"Male",14,"Not Hisp/Latino","White","Married",3,30
+"S171590","052_S_4944","10/19/2012","bl","EMCI",68,"Male",14,"Not Hisp/Latino","White","Married",0.5,29
+"S187399","052_S_4945","4/2/2013","m03","LMCI",56.5,"Male",12,"Not Hisp/Latino","White","Married",NA,NA
+"S194385","052_S_4945","7/8/2013","m06","LMCI",56.5,"Male",12,"Not Hisp/Latino","White","Married",3,28
+"S210328","052_S_4945","1/17/2014","m12","LMCI",56.5,"Male",12,"Not Hisp/Latino","White","Married",3.5,30
+"S244628","052_S_4945","1/7/2015","m24","LMCI",56.5,"Male",12,"Not Hisp/Latino","White","Married",5,23
+"S172164","052_S_4945","10/24/2012","bl","LMCI",56.5,"Male",12,"Not Hisp/Latino","White","Married",2,27
+"S183645","052_S_4959","3/4/2013","bl","AD",77.5,"Male",20,"Not Hisp/Latino","White","Married",5,25
+"S191689","052_S_4959","6/5/2013","m03","AD",77.5,"Male",20,"Not Hisp/Latino","White","Married",NA,NA
+"S201443","052_S_4959","9/18/2013","m06","AD",77.5,"Male",20,"Not Hisp/Latino","White","Married",5,26
+"S214399","052_S_4959","3/18/2014","m12","AD",77.5,"Male",20,"Not Hisp/Latino","White","Married",5,26
+"S192190","052_S_5062","6/12/2013","m03","AD",71,"Female",14,"Not Hisp/Latino","White","Married",NA,NA
+"S202504","052_S_5062","9/30/2013","m06","AD",71,"Female",14,"Not Hisp/Latino","White","Married",5,25
+"S216761","052_S_5062","4/22/2014","m12","AD",71,"Female",14,"Not Hisp/Latino","White","Married",5,22
+"S181107","052_S_5062","1/25/2013","bl","AD",71,"Female",14,"Not Hisp/Latino","White","Married",2.5,26
+"S158400","057_S_2398","7/24/2012","m12","EMCI",71.5,"Male",13,"Not Hisp/Latino","White","Married",4,26
+"S196217","057_S_2398","7/23/2013","m24","EMCI",71.5,"Male",13,"Not Hisp/Latino","White","Married",8,24
+"S159517","057_S_4888","8/3/2012","bl","LMCI",74.8,"Male",12,"Not Hisp/Latino","White","Married",2.5,25
+"S173940","057_S_4888","11/9/2012","m03","LMCI",74.8,"Male",12,"Not Hisp/Latino","White","Married",NA,NA
+"S182370","057_S_4888","2/14/2013","m06","LMCI",74.8,"Male",12,"Not Hisp/Latino","White","Married",3,23
+"S198436","057_S_4888","8/20/2013","m12","LMCI",74.8,"Male",12,"Not Hisp/Latino","White","Married",3.5,22
+"S227314","057_S_4888","8/12/2014","m24","LMCI",74.8,"Male",12,"Not Hisp/Latino","White","Married",6,19
+"S160599","057_S_4897","8/13/2012","bl","EMCI",75.8,"Female",11,"Not Hisp/Latino","White","Married",1.5,29
+"S176887","057_S_4897","12/10/2012","m03","EMCI",75.8,"Female",11,"Not Hisp/Latino","White","Married",NA,NA
+"S183140","057_S_4897","2/26/2013","m06","EMCI",75.8,"Female",11,"Not Hisp/Latino","White","Married",1,28
+"S199577","057_S_4897","8/28/2013","m12","EMCI",75.8,"Female",11,"Not Hisp/Latino","White","Married",2,27
+"S162548","057_S_4909","8/23/2012","bl","LMCI",78.2,"Female",11,"Not Hisp/Latino","White","Married",3,25
+"S175812","057_S_4909","11/29/2012","m03","LMCI",78.2,"Female",11,"Not Hisp/Latino","White","Married",NA,NA
+"S183876","057_S_4909","3/7/2013","m06","LMCI",78.2,"Female",11,"Not Hisp/Latino","White","Married",2.5,25
+"S198893","057_S_4909","8/22/2013","m12","LMCI",78.2,"Female",11,"Not Hisp/Latino","White","Married",3,26
+"S198139","057_S_5199","8/19/2013","m03","SMC",66.8,"Female",15,"Not Hisp/Latino","Black","Married",NA,NA
+"S191043","057_S_5199","5/31/2013","bl","SMC",66.8,"Female",15,"Not Hisp/Latino","Black","Married",0.5,28
+"S204230","057_S_5292","10/18/2013","bl","SMC",74.3,"Female",13,"Not Hisp/Latino","White","Married",0,30
+"S292959","057_S_5292","10/28/2015","m24","SMC",74.3,"Female",13,"Not Hisp/Latino","White","Married",0.5,29
+"S206898","057_S_5295","11/28/2013","bl","SMC",75.5,"Female",15,"Not Hisp/Latino","White","Married",0.5,29
+"S319089","057_S_5295","11/30/2015","m24","SMC",75.5,"Female",15,"Not Hisp/Latino","White","Married",1,26
+"S114179","094_S_2201","7/11/2011","m06","EMCI",63.7,"Female",18,"Not Hisp/Latino","More than one","Married",0,29
+"S137441","094_S_2201","1/19/2012","m12","EMCI",63.7,"Female",18,"Not Hisp/Latino","More than one","Married",1,29
+"S180256","094_S_2201","1/15/2013","m24","EMCI",63.7,"Female",18,"Not Hisp/Latino","More than one","Married",1,30
+"S211834","094_S_2201","2/4/2014","m36","EMCI",63.7,"Female",18,"Not Hisp/Latino","More than one","Married",0,30
+"S247411","094_S_2201","2/3/2015","m48","EMCI",63.7,"Female",18,"Not Hisp/Latino","More than one","Married",0.5,29
+"S121486","094_S_2216","9/8/2011","m06","EMCI",68.1,"Male",14,"Not Hisp/Latino","White","Married",2,24
+"S143197","094_S_2216","3/8/2012","m12","EMCI",68.1,"Male",14,"Not Hisp/Latino","White","Married",1.5,26
+"S183908","094_S_2216","3/7/2013","m24","EMCI",68.1,"Male",14,"Not Hisp/Latino","White","Married",4,25
+"S214422","094_S_2216","3/19/2014","m36","EMCI",68.1,"Male",14,"Not Hisp/Latino","White","Married",3.5,20
+"S251863","094_S_2216","3/17/2015","m48","EMCI",68.1,"Male",14,"Not Hisp/Latino","White","Married",9,11
+"S99218","094_S_2216","2/1/2011","bl","EMCI",68.1,"Male",14,"Not Hisp/Latino","White","Married",1.5,27
+"S100790","094_S_2238","3/2/2011","m03","EMCI",68.5,"Male",18,"Not Hisp/Latino","White","Married",NA,NA
+"S137317","094_S_2238","1/18/2012","m12","EMCI",68.5,"Male",18,"Not Hisp/Latino","White","Married",0.5,30
+"S180898","094_S_2238","1/24/2013","m24","EMCI",68.5,"Male",18,"Not Hisp/Latino","White","Married",1,30
+"S211690","094_S_2238","1/31/2014","m36","EMCI",68.5,"Male",18,"Not Hisp/Latino","White","Married",0.5,29
+"S117426","094_S_2238","8/4/2011","m06","EMCI",68.5,"Male",18,"Not Hisp/Latino","White","Married",0.5,30
+"S96335","094_S_2238","12/10/2010","bl","EMCI",68.5,"Male",18,"Not Hisp/Latino","White","Married",1,29
+"S128910","094_S_2367","11/10/2011","m06","EMCI",74.7,"Male",20,"Not Hisp/Latino","White","Divorced",0.5,26
+"S150630","094_S_2367","5/16/2012","m12","EMCI",74.7,"Male",20,"Not Hisp/Latino","White","Divorced",0.5,27
+"S260772","094_S_2367","5/19/2015","m48","EMCI",74.7,"Male",20,"Not Hisp/Latino","White","Divorced",5,26
+"S105435","094_S_2367","4/27/2011","bl","EMCI",74.7,"Male",20,"Not Hisp/Latino","White","Divorced",1.5,25
+"S125693","094_S_4089","10/18/2011","m03","AD",73.7,"Male",18,"Not Hisp/Latino","White","Married",NA,NA
+"S160962","094_S_4089","8/15/2012","m12","AD",73.7,"Male",18,"Not Hisp/Latino","White","Married",3.5,24
+"S113218","094_S_4089","6/29/2011","bl","AD",73.7,"Male",18,"Not Hisp/Latino","White","Married",2.5,24
+"S202297","094_S_4089","9/25/2013","m24","AD",73.7,"Male",18,"Not Hisp/Latino","White","Married",6,18
+"S131305","094_S_4162","11/29/2011","m03","LMCI",71.3,"Female",16,"Not Hisp/Latino","White","Married",NA,NA
+"S145116","094_S_4162","3/28/2012","m06","LMCI",71.3,"Female",16,"Not Hisp/Latino","White","Married",1,26
+"S162704","094_S_4162","8/23/2012","m12","LMCI",71.3,"Female",16,"Not Hisp/Latino","White","Married",1,26
+"S202471","094_S_4162","9/27/2013","m24","LMCI",71.3,"Female",16,"Not Hisp/Latino","White","Married",3.5,22
+"S283487","094_S_4162","10/6/2015","m48","LMCI",71.3,"Female",16,"Not Hisp/Latino","White","Married",3.5,22
+"S119135","094_S_4162","8/16/2011","bl","LMCI",71.3,"Female",16,"Not Hisp/Latino","White","Married",1,26
+"S135445","094_S_4234","1/3/2012","m03","CN",70.1,"Male",13,"Not Hisp/Latino","White","Married",NA,NA
+"S148434","094_S_4234","4/25/2012","m06","CN",70.1,"Male",13,"Not Hisp/Latino","White","Married",0,29
+"S171872","094_S_4234","10/18/2012","m12","CN",70.1,"Male",13,"Not Hisp/Latino","White","Married",0,28
+"S204936","094_S_4234","10/25/2013","m24","CN",70.1,"Male",13,"Not Hisp/Latino","White","Married",0,27
+"S435009","094_S_4234","5/5/2016","m36","CN",70.1,"Male",13,"Not Hisp/Latino","White","Married",0.5,29
+"S125725","094_S_4234","10/18/2011","bl","CN",70.1,"Male",13,"Not Hisp/Latino","White","Married",0,28
+"S125975","094_S_4282","10/20/2011","bl","AD",89.6,"Male",12,"Not Hisp/Latino","White","Widowed",3.5,23
+"S139529","094_S_4282","1/27/2012","m03","AD",89.6,"Male",12,"Not Hisp/Latino","White","Widowed",NA,NA
+"S147515","094_S_4282","4/17/2012","m06","AD",89.6,"Male",12,"Not Hisp/Latino","White","Widowed",4,21
+"S146299","094_S_4434","4/4/2012","m03","EMCI",66.5,"Male",17,"Not Hisp/Latino","White","Divorced",NA,NA
+"S157787","094_S_4434","7/17/2012","m06","EMCI",66.5,"Male",17,"Not Hisp/Latino","White","Divorced",2.5,26
+"S182807","094_S_4434","2/19/2013","m12","EMCI",66.5,"Male",17,"Not Hisp/Latino","White","Divorced",2.5,29
+"S213884","094_S_4434","3/11/2014","m24","EMCI",66.5,"Male",17,"Not Hisp/Latino","White","Divorced",2.5,30
+"S366269","094_S_4434","2/4/2016","m48","EMCI",66.5,"Male",17,"Not Hisp/Latino","White","Divorced",1,29
+"S137350","094_S_4434","1/18/2012","bl","EMCI",66.5,"Male",17,"Not Hisp/Latino","White","Divorced",2,30
+"S150535","094_S_4503","5/11/2012","m03","CN",71.7,"Female",19,"Not Hisp/Latino","White","Divorced",NA,NA
+"S169569","094_S_4503","9/27/2012","m06","CN",71.7,"Female",19,"Not Hisp/Latino","White","Divorced",0,29
+"S183448","094_S_4503","2/28/2013","m12","CN",71.7,"Female",19,"Not Hisp/Latino","White","Divorced",1,30
+"S218001","094_S_4503","5/6/2014","m24","CN",71.7,"Female",19,"Not Hisp/Latino","White","Divorced",0,29
+"S410110","094_S_4503","4/1/2016","m36","CN",71.7,"Female",19,"Not Hisp/Latino","White","Divorced",0,29
+"S141559","094_S_4503","2/22/2012","bl","CN",71.7,"Female",19,"Not Hisp/Latino","White","Divorced",0.5,30
+"S151852","094_S_4560","5/29/2012","m03","CN",70.3,"Female",20,"Not Hisp/Latino","White","Married",NA,NA
+"S170629","094_S_4560","10/11/2012","m06","CN",70.3,"Female",20,"Not Hisp/Latino","White","Married",0,27
+"S185159","094_S_4560","3/21/2013","m12","CN",70.3,"Female",20,"Not Hisp/Latino","White","Married",0,30
+"S216885","094_S_4560","4/22/2014","m24","CN",70.3,"Female",20,"Not Hisp/Latino","White","Married",0,29
+"S144256","094_S_4560","3/16/2012","bl","CN",70.3,"Female",20,"Not Hisp/Latino","White","Married",0,28
+"S162224","094_S_4630","8/21/2012","m03","LMCI",65.4,"Female",16,"Not Hisp/Latino","White","Divorced",NA,NA
+"S219817","094_S_4630","5/27/2014","m24","LMCI",65.4,"Female",16,"Not Hisp/Latino","White","Divorced",2,26
+"S146119","094_S_4630","4/3/2012","bl","LMCI",65.4,"Female",16,"Not Hisp/Latino","White","Divorced",1.5,30
+"S206938","094_S_4630","9/24/2013","m18","LMCI",65.4,"Female",16,"Not Hisp/Latino","White","Divorced",NA,NA
+"S162194","094_S_4649","8/21/2012","m03","CN",65.4,"Male",18,"Not Hisp/Latino","White","Divorced",NA,NA
+"S190566","094_S_4649","5/28/2013","m12","CN",65.4,"Male",18,"Not Hisp/Latino","White","Divorced",0,27
+"S221832","094_S_4649","6/10/2014","m24","CN",65.4,"Male",18,"Not Hisp/Latino","White","Divorced",0,30
+"S149976","094_S_4649","5/10/2012","bl","CN",65.4,"Male",18,"Not Hisp/Latino","White","Divorced",0,30
+"S163040","094_S_4737","8/28/2012","m03","AD",74.3,"Female",12,"Not Hisp/Latino","White","Married",NA,NA
+"S153532","094_S_4737","6/8/2012","bl","AD",74.3,"Female",12,"Not Hisp/Latino","White","Married",4.5,23
+"S186481","094_S_4858","4/9/2013","m06","EMCI",55,"Male",16,"Not Hisp/Latino","White","Married",2.5,27
+"S204095","094_S_4858","10/16/2013","m12","EMCI",55,"Male",16,"Not Hisp/Latino","White","Married",0.5,29
+"S235259","094_S_4858","10/29/2014","m24","EMCI",55,"Male",16,"Not Hisp/Latino","White","Married",3.5,28
+"S167133","094_S_4858","9/11/2012","bl","EMCI",55,"Male",16,"Not Hisp/Latino","White","Married",2,30
+"S100849","098_S_2047","3/2/2011","m06","EMCI",77.4,"Male",18,"Not Hisp/Latino","White","Married",4.5,27
+"S200737","098_S_2047","9/12/2013","m36","EMCI",77.4,"Male",18,"Not Hisp/Latino","White","Married",8,22
+"S95880","098_S_2047","12/6/2010","m03","EMCI",77.4,"Male",18,"Not Hisp/Latino","White","Married",NA,NA
+"S121962","098_S_2047","9/13/2011","m12","EMCI",77.4,"Male",18,"Not Hisp/Latino","White","Married",6,26
+"S169096","098_S_2047","9/26/2012","m24","EMCI",77.4,"Male",18,"Not Hisp/Latino","White","Married",5.5,28
+"S91293","098_S_2047","8/18/2010","bl","EMCI",77.4,"Male",18,"Not Hisp/Latino","White","Married",2.5,27
+"S101948","098_S_2052","3/8/2011","m06","EMCI",73.1,"Male",20,"Not Hisp/Latino","White","Married",2.5,29
+"S200042","098_S_2052","9/5/2013","m36","EMCI",73.1,"Male",20,"Not Hisp/Latino","White","Married",3,30
+"S231374","098_S_2052","9/17/2014","m48","EMCI",73.1,"Male",20,"Not Hisp/Latino","White","Married",NA,27
+"S96529","098_S_2052","12/10/2010","m03","EMCI",73.1,"Male",20,"Not Hisp/Latino","White","Married",NA,NA
+"S121983","098_S_2052","9/13/2011","m12","EMCI",73.1,"Male",20,"Not Hisp/Latino","White","Married",1.5,30
+"S96653","098_S_2079","12/15/2010","m03","EMCI",65.5,"Male",13,"Not Hisp/Latino","White","Married",NA,NA
+"S92417","098_S_2079","9/22/2010","bl","EMCI",65.5,"Male",13,"Not Hisp/Latino","White","Married",1.5,25
+"S125667","098_S_4003","10/13/2011","m06","CN",72.3,"Female",16,"Unknown","White","Married",0,30
+"S190123","098_S_4003","5/13/2013","m24","CN",72.3,"Female",16,"Unknown","White","Married",0,30
+"S216362","098_S_4003","4/15/2014","m36","CN",72.3,"Female",16,"Unknown","White","Married",0,30
+"S102157","098_S_4003","3/22/2011","bl","CN",72.3,"Female",16,"Unknown","White","Married",0,30
+"S144221","098_S_4003","3/16/2012","m12","CN",72.3,"Female",16,"Unknown","White","Married",0,29
+"S136248","098_S_4018","11/28/2011","m06","CN",76.1,"Male",18,"Not Hisp/Latino","White","Married",0,29
+"S151303","098_S_4018","5/21/2012","m12","CN",76.1,"Male",18,"Not Hisp/Latino","White","Married",0,27
+"S190131","098_S_4018","5/6/2013","m24","CN",76.1,"Male",18,"Not Hisp/Latino","White","Married",0.5,30
+"S268636","098_S_4018","6/10/2015","m48","CN",76.1,"Male",18,"Not Hisp/Latino","White","Married",0,29
+"S105027","098_S_4018","4/22/2011","bl","CN",76.1,"Male",18,"Not Hisp/Latino","White","Married",0,29
+"S125654","098_S_4059","10/12/2011","m03","EMCI",71.9,"Male",18,"Not Hisp/Latino","White","Married",NA,NA
+"S136263","098_S_4059","12/14/2011","m06","EMCI",71.9,"Male",18,"Not Hisp/Latino","White","Married",2,28
+"S159634","098_S_4059","8/6/2012","m12","EMCI",71.9,"Male",18,"Not Hisp/Latino","White","Married",3,25
+"S109782","098_S_4059","5/24/2011","bl","EMCI",71.9,"Male",18,"Not Hisp/Latino","White","Married",2,29
+"S122170","098_S_4201","9/14/2011","bl","AD",64,"Female",15,"Not Hisp/Latino","White","Married",6,24
+"S139785","098_S_4201","2/3/2012","m03","AD",64,"Female",15,"Not Hisp/Latino","White","Married",NA,NA
+"S146445","098_S_4201","4/3/2012","m06","AD",64,"Female",15,"Not Hisp/Latino","White","Married",6,20
+"S136229","098_S_4215","12/12/2011","m03","AD",81.6,"Male",20,"Unknown","White","Married",NA,NA
+"S204566","098_S_4215","10/16/2013","m24","AD",81.6,"Male",20,"Unknown","White","Married",7,21
+"S121932","098_S_4215","9/12/2011","bl","AD",81.6,"Male",20,"Unknown","White","Married",4.5,26
+"S145571","098_S_4275","3/27/2012","m03","CN",72.8,"Male",18,"Not Hisp/Latino","White","Married",NA,NA
+"S196036","098_S_4275","7/22/2013","m12","CN",72.8,"Male",18,"Not Hisp/Latino","White","Married",0.5,29
+"S349224","098_S_4275","1/11/2016","m48","CN",72.8,"Male",18,"Not Hisp/Latino","White","Married",NA,30
+"S155260","098_S_4275","6/7/2012","m06","CN",72.8,"Male",18,"Not Hisp/Latino","White","Married",0,30
+"S211937","098_S_4275","2/4/2014","m24","CN",72.8,"Male",18,"Not Hisp/Latino","White","Married",0,29
+"S125682","098_S_4275","10/17/2011","bl","CN",72.8,"Male",18,"Not Hisp/Latino","White","Married",0,29
+"S155271","098_S_4506","6/22/2012","m03","CN",71.5,"Male",19,"Not Hisp/Latino","White","Married",NA,NA
+"S167381","098_S_4506","9/12/2012","m06","CN",71.5,"Male",19,"Not Hisp/Latino","White","Married",0.5,30
+"S197407","098_S_4506","8/2/2013","m12","CN",71.5,"Male",19,"Not Hisp/Latino","White","Married",3,29
+"S447003","098_S_4506","3/14/2014","m24","CN",71.5,"Male",19,"Not Hisp/Latino","White","Married",3,29
+"S141779","098_S_4506","2/24/2012","bl","CN",71.5,"Male",19,"Not Hisp/Latino","White","Married",0.5,30
+"S206831","129_S_4371","11/26/2013","m24","CN",67.7,"Male",18,"Not Hisp/Latino","White","Married",0,29
